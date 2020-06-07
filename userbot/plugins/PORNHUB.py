@@ -52,7 +52,7 @@ async def _(event):
             
            "PORNHUB_", 
            
-           "PORNHUB",
+           "PORNHUB.com",
 
         ]
 
